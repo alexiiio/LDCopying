@@ -21,11 +21,11 @@ s.description      = <<-DESC
 TODO: Add long description of the pod here.
 DESC
 
-s.homepage         = 'https://github.com/alexiiio/LDCopying'
+s.homepage         = 'https://gitee.com/AleXiiio/LDCopying'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'alexiiio' => '450145524@qq.com' }
-s.source           = { :git => 'https://github.com/alexiiio/LDCopying.git', :tag => 'v0.0.1' }
+s.source           = { :git => 'https://gitee.com/AleXiiio/LDCopying.git', :tag => 'v0.0.1' }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '8.0'
